@@ -7,7 +7,7 @@
         "horsepower": 640,
         "isElectric": false,
         "releaseDate": "2020-03-03",
-        "imageUrl": "https://example.com/porsche-911-turbo-s.jpg",
+        "imageUrl": "porsche-project/images/Porsche 911 Turbo S.jpg",
         "category": "Sportwagen",
         "features": ["Launch Control", "Sport Chrono Pakket", "PASM ophanging"],
         "manufacturer": {
@@ -25,7 +25,7 @@
         "horsepower": 750,
         "isElectric": true,
         "releaseDate": "2019-09-04",
-        "imageUrl": "https://example.com/porsche-taycan-turbo-s.jpg",
+        "imageUrl": "porsche-project/images/Porsche Taycan Turbo S.webp",
         "category": "Elektrisch",
         "features": ["Over-the-air updates", "Launch Control", "Adaptieve luchtvering"],
         "manufacturer": {
@@ -43,7 +43,7 @@
         "horsepower": 631,
         "isElectric": false,
         "releaseDate": "2021-06-30",
-        "imageUrl": "https://example.com/porsche-cayenne-turbo-gt.jpg",
+        "imageUrl": "porsche-project/images/Porsche Cayenne Turbo GT.jpg",
         "category": "SUV",
         "features": ["Achterasbesturing", "PCCB remmen", "Sportuitlaat"],
         "manufacturer": {
