@@ -15,7 +15,7 @@
           "name": "Porsche AG",
           "country": "Duitsland",
           "founded": "1931-04-25",
-          "logoUrl": "https://example.com/porsche-logo.jpg"
+          "logoUrl": "porsche-project/images/logo.webp"
         }
       },
       {
@@ -33,7 +33,7 @@
           "name": "Porsche AG",
           "country": "Duitsland",
           "founded": "1931-04-25",
-          "logoUrl": "https://example.com/porsche-logo.jpg"
+          "logoUrl": "porsche-project/images/logo.webp"
         }
       },
       {
@@ -51,7 +51,7 @@
           "name": "Porsche AG",
           "country": "Duitsland",
           "founded": "1931-04-25",
-          "logoUrl": "https://example.com/porsche-logo.jpg"
+          "logoUrl": "porsche-project/images/logo.webp"
         }
       }
     ]
