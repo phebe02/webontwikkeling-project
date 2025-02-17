@@ -1,0 +1,58 @@
+{
+    "porsches": [
+      {
+        "id": 1,
+        "name": "Porsche 911 Turbo S",
+        "description": "Een krachtige sportwagen met een 3.8L twin-turbo boxermotor en vierwielaandrijving.",
+        "horsepower": 640,
+        "isElectric": false,
+        "releaseDate": "2020-03-03",
+        "imageUrl": "https://example.com/porsche-911-turbo-s.jpg",
+        "category": "Sportwagen",
+        "features": ["Launch Control", "Sport Chrono Pakket", "PASM ophanging"],
+        "manufacturer": {
+          "id": 101,
+          "name": "Porsche AG",
+          "country": "Duitsland",
+          "founded": "1931-04-25",
+          "logoUrl": "https://example.com/porsche-logo.jpg"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Porsche Taycan Turbo S",
+        "description": "Een volledig elektrische sportwagen met indrukwekkende prestaties en een futuristisch design.",
+        "horsepower": 750,
+        "isElectric": true,
+        "releaseDate": "2019-09-04",
+        "imageUrl": "https://example.com/porsche-taycan-turbo-s.jpg",
+        "category": "Elektrisch",
+        "features": ["Over-the-air updates", "Launch Control", "Adaptieve luchtvering"],
+        "manufacturer": {
+          "id": 101,
+          "name": "Porsche AG",
+          "country": "Duitsland",
+          "founded": "1931-04-25",
+          "logoUrl": "https://example.com/porsche-logo.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Porsche Cayenne Turbo GT",
+        "description": "Een high-performance SUV met een 4.0L twin-turbo V8 motor.",
+        "horsepower": 631,
+        "isElectric": false,
+        "releaseDate": "2021-06-30",
+        "imageUrl": "https://example.com/porsche-cayenne-turbo-gt.jpg",
+        "category": "SUV",
+        "features": ["Achterasbesturing", "PCCB remmen", "Sportuitlaat"],
+        "manufacturer": {
+          "id": 101,
+          "name": "Porsche AG",
+          "country": "Duitsland",
+          "founded": "1931-04-25",
+          "logoUrl": "https://example.com/porsche-logo.jpg"
+        }
+      }
+    ]
+  }
