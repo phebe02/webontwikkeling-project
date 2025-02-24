@@ -4,7 +4,7 @@ export interface Manufacturer {
     name: string;
     country: string;
     founded: string;
-    logourl: string;
+    logoUrl: string;
 }
 
 export interface Porsche {
@@ -17,6 +17,9 @@ export interface Porsche {
     imageUrl: string;
     category: string;
     features: string[];
-    manufacturer: Manufacturer[];
+    manufacturer: Manufacturer;
   }
 
+export interface PorscheData {
+    porsches: Porsche[];
+  }
